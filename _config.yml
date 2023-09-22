@@ -23,6 +23,7 @@ twitter_username: jakoell
 github_username: jkoell
 minimal_mistakes_skin: default
 search: true
+masthead_title: "jkoell.github.io"
 
 # Build settings
 markdown: kramdown
@@ -94,9 +95,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
