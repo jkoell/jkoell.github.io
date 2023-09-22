@@ -64,7 +64,10 @@ author:
   name   : "Jannes Koelling"
   avatar : "/assets/images/jannes_headshot.jpeg"
   bio    : "Postdoctoral researcher at [UW CICOES](https://cicoes.uw.edu) and [NOAA PMEL](https://www.pmel.noaa.gov/)"
-  links:
+  links:    
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/pdf/CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jannes@uw.edu"
