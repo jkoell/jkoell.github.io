@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Jannes Koelling"
   avatar : "/assets/images/jannes_headshot.jpeg"
-  bio    : "Postdoctoral researcher at [UW CICOES](https://cicoes.uw.edu) and [NOAA PMEL](https://www.pmel.noaa.gov/)"
+  bio    : "Postdoctoral researcher in Oceanography at [UW CICOES](https://cicoes.uw.edu) and [NOAA PMEL](https://www.pmel.noaa.gov/)"
   links:    
     - label: "CV"
       icon: "fas fa-fw fa-file"
