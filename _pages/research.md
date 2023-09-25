@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-My primary research interests are at the intersection of ocean physics and biogeochemistry, studying how processes such as ocean currents and deep water formation influence the distribution and variability of dissolved gases in the ocean.
+My primary research interests are at the intersection of ocean physics and biogeochemistry, using observations from [BGC-Argo](https://biogeochemical-argo.org), moorings, and hydrography to study how processes such as ocean currents and deep water formation influence the distribution and variability of dissolved gases in the ocean.
 
 ## Ocean ventilation
 
