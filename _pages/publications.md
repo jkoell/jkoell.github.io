@@ -6,7 +6,11 @@ permalink: /publications/
 
 ### As first author
 
-**Koelling, J.**, Atamanchuk, D., Karstensen, J., Handmann, P. and Wallace, D.W., 2022. 
+**Koelling, J.**, Atamanchuk, D., Karstensen, J., and Wallace, D.W.R., 2023 (*in review*). 
+Decadal variability of oxygen uptake, export, and storage in the Labrador Sea from
+observations and CMIP6 models. *Frontiers in Marine Science* 
+
+**Koelling, J.**, Atamanchuk, D., Karstensen, J., Handmann, P. and Wallace, D.W.R., 2022. 
 [Oxygen export to the deep ocean following Labrador Sea Water formation](https://doi.org/10.5194/bg-19-437-2022). *Biogeosciences* 
 
 **Koelling, J.**, Send, U. and Lankhorst, M., 2020. 
@@ -14,7 +18,7 @@ permalink: /publications/
 *Journal of Geophysical Research: Oceans*.
 
 
-**Koelling, J.**, Wallace, D.W., Send, U. and Karstensen, J., 2017. 
+**Koelling, J.**, Wallace, D.W.R., Send, U. and Karstensen, J., 2017. 
 [Intense oceanic uptake of oxygen during 2014–2015 winter convection in the Labrador Sea](https://doi.org/10.1002/2017GL073933). *Geophysical Research Letters*
 
 
