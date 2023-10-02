@@ -3,6 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 
+Below is a list of my publications in scientific journals. Short descriptions for most of my first-author publications can be found under [Research](/research).
 
 ### As first author
 
