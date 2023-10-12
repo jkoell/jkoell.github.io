@@ -7,9 +7,9 @@ Below is a list of my publications in scientific journals. Short descriptions fo
 
 ### As first author
 
-**Koelling, J.**, Atamanchuk, D., Karstensen, J., and Wallace, D.W.R., 2023 (*in review*). 
+**Koelling, J.**, Atamanchuk, D., Karstensen, J., and Wallace, D.W.R., 2023. 
 Decadal variability of oxygen uptake, export, and storage in the Labrador Sea from
-observations and CMIP6 models. *Frontiers in Marine Science* 
+observations and CMIP6 models [(Preprint)](/assets/pdf/Decadal_ventilation_changes_website.pdf). *accepted for publication in Frontiers in Marine Science* 
 
 **Koelling, J.**, Atamanchuk, D., Karstensen, J., Handmann, P. and Wallace, D.W.R., 2022. 
 [Oxygen export to the deep ocean following Labrador Sea Water formation](https://doi.org/10.5194/bg-19-437-2022). *Biogeosciences* 
