@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Jannes Koelling"
   avatar : "/assets/images/jannes_headshot.jpeg"
-  bio    : "Postdoctoral researcher in Oceanography at [UW CICOES](https://cicoes.uw.edu) and [NOAA PMEL](https://www.pmel.noaa.gov/)"
+  bio    : "Researcher in [the UW School of Oceanography](https://www.ocean.washington.edu)"
   links:    
     - label: "CV"
       icon: "fas fa-fw fa-file"
@@ -75,6 +75,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=s47A2RwAAAAJ"
     - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/koelling.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
