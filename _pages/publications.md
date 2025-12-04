@@ -7,7 +7,7 @@ Below is a list of my publications in scientific journals. Short descriptions fo
 
 ### As first author
 
-**Koelling, J.**, Fassbender, A. J., Gray, A. R., Johnson, G. C., Sharp, J. D., & Carroll, D. (2025). [Progressive oxygenation of the North Atlantic subpolar gyre](https://doi.org/10.1029/2024JC022157). *Journal of Geophysical Research: Oceans* 
+**Koelling, J.**, Fassbender, A. J., Gray, A. R., Johnson, G. C., Sharp, J. D., & Carroll, D. 2025. [Progressive oxygenation of the North Atlantic subpolar gyre](https://doi.org/10.1029/2024JC022157). *Journal of Geophysical Research: Oceans* 
 
 **Koelling, J.**, Atamanchuk, D., Karstensen, J., and Wallace, D.W.R., 2023. 
 [Decadal variability of oxygen uptake, export, and storage in the Labrador Sea from
@@ -28,7 +28,7 @@ observations and CMIP6 models](https://www.frontiersin.org/articles/10.3389/fmar
 
 ### As coauthor
 
-Miller, U. K., Fogaren, K. E., Atamanchuk, D., Johnson, C., **Koelling, J.**, Le Bras, I., ... & Palter, J. B. (2024). [Oxygen optodes on oceanographic moorings: recommendations for deployment and in situ calibration](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1441976/full). *Frontiers in Marine Science*
+Miller, U. K., Fogaren, K. E., Atamanchuk, D., Johnson, C., **Koelling, J.**, Le Bras, I., ... & Palter, J. B. 2024. [Oxygen optodes on oceanographic moorings: recommendations for deployment and in situ calibration](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1441976/full). *Frontiers in Marine Science*
 
 Atamanchuk, D., Palter, J., Palevsky, H., Le Bras, I., **Koelling, J.** and Nicholson, D., 2022. [Linking Oxygen and Carbon Uptake with the Meridional Overturning Circulation Using a Transport Mooring Array](https://par.nsf.gov/servlets/purl/10314159). *Oceanography*
 
