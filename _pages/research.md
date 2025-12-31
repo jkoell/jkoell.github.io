@@ -5,9 +5,13 @@ permalink: /research/
 
 My primary research interests are at the intersection of ocean physics and biogeochemistry, using observations from [BGC-Argo](https://biogeochemical-argo.org), moorings, and hydrography to study how processes such as ocean currents and deep water formation influence the distribution and variability of dissolved gases in the ocean.
 
+Check out this StoryMap for a summary of my most recent paper, or read on below for more details on some of my previous work!
+<iframe src="https://storymaps.arcgis.com/stories/e2d422a61ea84eafb25faec7de2507d6" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+[Full screen link to StoryMap](https://ecco-group.org/storymaps.htm?id=119)
+
 ## Ocean ventilation
 
-Ocean ventilation is the term generally used for the "breathing" of the ocean. Different authors define ventilation in different ways, but in my work I generally use the term to mean the uptake of oxygen from the atmosphere at the surface of the ocean, and its export away from the source region by physical transport. Using a budget approach, this export can be inferred by combining measurements or estimates of oxygen content change, air-sea gas exchange, and biological activity. In a paper published in JGR: Oceans in October 2025 ([open access, available here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC022157); code available on [my Github](https://github.com/jkoell/SPNA-ventilation)), I use data from the [GOBAI-O2 product](https://www.pmel.noaa.gov/gobai/) to study ventilation in the subpolar North Atlantic Ocean. The main findings from the paper are summarized in the schematic below:
+Ocean ventilation is the term generally used for the "breathing" of the ocean. Different authors define ventilation in different ways, but in my work I generally use the term to mean the uptake of oxygen from the atmosphere at the surface of the ocean, and its export away from the source region by physical transport. In a paper published in JGR: Oceans in October 2025 ([open access, available here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC022157); code available on [my Github](https://github.com/jkoell/SPNA-ventilation)), I use data from the [GOBAI-O2 product](https://www.pmel.noaa.gov/gobai/) to study ventilation in the subpolar North Atlantic Ocean. The main findings from the paper are summarized in the schematic below:
 
 ![SPNA ventilation schematic](/assets/images/Atlantic_O2_uptake_Map_3d_v13.png){: width="1200px"}
 
